@@ -24,10 +24,23 @@ Ans:Framework: Framework is collection of lots of apis and libraries.
              Example : JQuery
 
 3.What is CDN? Why do we use it?
+Ans: CDN stands for content delivery network.
+     A network of interconnected servers that speed up loading for data heavy applications.
+     CDN provides quick tranfer of assests needed for loading internet content including HTML pages, javascript files, stylesheets, images and videos.
+     The purpose of CDN is to reduce the latency and speed up rendering.
+     There are 2 types of CDN.
+     1.Content oriented CDN's 2.Security oriented CDN's
 
 
 4. Why is React known as React?
+Ans: React was developed for application(fb) that have constantly changing data.Since React is frontend framework or view in MVC this means that as
+the user clicks around and changes the app's data, the view should react or change with those user events for eg mouse click,typing. That's why react is known
+as React.
+
+
+
 5. What is crossorigin in script tag?
+Ans : 
 6.What is diference between React and ReactDOM
 7.What is difference between react.development.js and react.production.js files via CDN?
 8. What is async and defer? - see my Youtube video ;)
