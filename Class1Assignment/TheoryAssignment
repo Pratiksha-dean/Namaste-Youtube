@@ -7,6 +7,7 @@ Ans:Emment is a plugin for many popular text editors which helps in writing Html
     Emmet is opensource.
     Emmet is written in pure javascript. So it works across different platforms.
     
+    
 2.Difference between a Library and Framework?
 Ans:Framework: Framework is collection of lots of apis and libraries.
                Frameworks are built for performing variety of tasks    
@@ -34,15 +35,33 @@ Ans: CDN stands for content delivery network.
 
 4. Why is React known as React?
 Ans: React was developed for application(fb) that have constantly changing data.Since React is frontend framework or view in MVC this means that as
-the user clicks around and changes the app's data, the view should react or change with those user events for eg mouse click,typing. That's why react is known
-as React.
-
+    the user clicks around and changes the app's data, the view should react or change with those user events for eg mouse click,typing. That's why react is known
+    as React.
 
 
 5. What is crossorigin in script tag?
-Ans : 
+Ans : The crossorigin attribute on script tag specifies the cors is supppoted when loading and external script file from a thrid party server or domain.
+      CORS stands for cross origin resource sharing.
+      
+      
 6.What is diference between React and ReactDOM
+Ans: While creating react application we use React and ReactDOM packages.
+     The react package hold the react source for react component,state,props and all the code in reacr.
+     ReactDOM package as the name implies glue between react package and DOM. Often you use it only for mounting your application in index.html 
+     file with ReactDom.render(). 
+     
+
 7.What is difference between react.development.js and react.production.js files via CDN?
-8. What is async and defer? - see my Youtube video ;)
+Ans: react.development.js is suitable for development and are not suitable for production
+     react.production.js is minified and optiomized production version of react
+     
+     
+8. What is async and defer? 
+Ans : async and defer are boolean attributes which are used along with script tag to load external scripts efficiently to our webpage.
+      async: while html parsing goes on script is fetched in async manner and parallely and as soon as the scripts are available  the script is executed
+             the html parsing continues.
+       
+      defer : while using defer html parsing goes on script if fetched parallelly and only executed once html parsing is completed.
+      
 
     
