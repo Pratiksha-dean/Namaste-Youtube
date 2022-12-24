@@ -1,0 +1,28 @@
+1.What is Emmet?
+Ans:Emment is a plugin for many popular text editors which helps in writing Html code for you webpage.
+    It's an essential toolkit for web developers.
+    Emmet helps in fast coding.
+    You can easily and quickly write bunch of code, wrap code with new tags.
+    Emmet is supported by many text editors like VS Code,Sublime Text etc.
+    Emmet is opensource.
+    Emmet is written in pure javascript. So it works across different platforms.
+    
+2.Difference between a Library and Framework?
+Ans:Framework: Framework is collection of lots of apis and libraries.
+               Frameworks are built for performing variety of tasks    
+               Framework has default behaviour and give you less control on modification.
+               They provide standard way to build and deploy program.
+               If library is doctor who specializes in one thing then frameworks are hospitals with full of different doctors.
+               Example : Angular
+              
+    Library: Libraries are built to perform specific, well defined operations.
+             Library is collection of helper functions, modules and objects
+             Libraries ask you to call them to accomplish a task
+             You have full control on modification
+             They are important in program linking and binding process
+             You can think of library as a doctor who specializes in on thing
+             Example : JQuery
+
+3.What is CDN? Why do we use it?
+
+    
